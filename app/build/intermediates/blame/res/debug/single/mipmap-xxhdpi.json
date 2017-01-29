@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_custom.png",
+        "source": "/Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/res/mipmap-xxhdpi/ic_launcher_custom.png"
+    }
+]

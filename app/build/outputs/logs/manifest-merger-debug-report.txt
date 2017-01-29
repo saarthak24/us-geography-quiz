@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:5:22-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:8:5-39:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:10:9-47
+	android:largeHeap
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:12:9-33
+	android:theme
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.app.saarthak.USGeographyQuiz.SplashScreen
+ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:15:9-24:20
+	android:screenOrientation
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:16:13-73
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.app.saarthak.USGeographyQuiz.HomePage
+ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:25:9-32:20
+	android:screenOrientation
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:25:76-112
+	android:name
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:25:19-75
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:26:13-31:29
+category#android.intent.category.DEFAULT
+ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:29:27-73
+activity#com.app.saarthak.USGeographyQuiz.WelcomeActivity
+ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:33:9-34:20
+	android:screenOrientation
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:33:83-119
+	android:name
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:33:19-82
+activity#com.app.saarthak.USGeographyQuiz.CheatActivity
+ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:35:9-36:20
+	android:screenOrientation
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:35:81-117
+	android:name
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:35:19-80
+activity#com.app.saarthak.USGeographyQuiz.HighScores
+ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:37:9-38:20
+	android:screenOrientation
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:37:78-114
+	android:name
+		ADDED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml:37:19-77
+uses-sdk
+INJECTED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Saarthak/AndroidStudioProjects/GeographyQuiz/GeographyQuiz/app/src/main/AndroidManifest.xml

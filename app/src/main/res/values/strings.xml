@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Geography\nQuiz</string>
+    <string name="greeting">Happy 1st Period!</string>
+    <string name="question1">1. Is Washington D.C. the capital of Virginia?</string>
+    <string name="question2">2. Is Dallas the capital of Texas?</string>
+    <string name="question3">3. Is Alaska the largest (area) state in the U.S.?</string>
+    <string name="question4">4. Is Delaware the smallest (area) state in the U.S.?</string>
+    <string name="question5">5. Is Oklahoma City the capital of Oklahoma?</string>
+    <string name="yesButton">Yes</string>
+    <string name="noButton">No</string>
+    <string name="nextButton">Next</string>
+    <string name="prevButton">Previous</string>
+    <string name="positive">Correct!</string>
+    <string name="negative">Incorrect!</string>
+    <string name="score">Score: </string>
+    <string name="answer">Answer: </string>
+    <string name="answered">You have already answered this question!</string>
+    <string name="warning">Are you sure?</string>
+    <string name="hint_button">Cheat</string>
+    <string name="hint_confirmation">Show Answer</string>
+    <string name="startButton">Start</string>
+    <string name="scorePageButton">Scores</string>
+    <string name="Scores">Scores</string>
+    <string name="inProgress">Coming Soon!</string>
+    <string name="submit">Submit</string>
+</resources>

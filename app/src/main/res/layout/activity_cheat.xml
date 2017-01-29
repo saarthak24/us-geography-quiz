@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rootRL"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/app_background" />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/warning_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15sp"
+            android:gravity="center"
+            android:padding="70dp"
+            android:text="@string/warning"
+            android:textAlignment="center"
+            android:textColor="#ffffff"
+            android:textIsSelectable="true"
+            android:textSize="25sp"
+            android:typeface="sans" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8sp"
+            android:layout_marginTop="40dp"
+            android:gravity="center"
+            android:text="@string/answer"
+            android:textColor="#ffffff"
+            android:textIsSelectable="true"
+            android:textSize="25sp"
+            android:typeface="sans" />
+
+        <Button
+            android:id="@+id/show_answer_button"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:background="@drawable/rectangle_background"
+            android:text="@string/hint_confirmation"
+            android:textColor="#ffffff"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/answer_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-30dp"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:textIsSelectable="true"
+            android:textSize="20sp"
+            android:typeface="sans"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</RelativeLayout>
